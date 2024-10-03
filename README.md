@@ -1,2 +1,2 @@
 # aeroelasticity-course-notebooks
-Repository for the test Jupyter Notebooks for the Aeroelasticity course @ University of Bristol
+My attempt at the development of a learn-by-doing course on aeroelasticity using Jupyter notebooks, in the style of of [CFDPython](https://github.com/barbagroup/CFDPython) and [AeroPython](https://github.com/barbagroup/AeroPython) developed by Prof. Lorena A. Barba and collaborators.
